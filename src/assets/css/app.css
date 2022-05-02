@@ -230,3 +230,9 @@
         z-index: 1000;
     }
 }
+
+
+#main-section{
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
